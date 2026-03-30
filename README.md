@@ -51,6 +51,6 @@
 </p>
 
 <p align="right">
-  // LOCATION: Nagaon, Assam, IN <br>
+  // LOCATION: IN <br>
   // STATUS: ACTIVE_DEVELOPER
 </p>
