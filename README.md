@@ -29,9 +29,6 @@ I am a Computer Science student from **Assam, India**, currently focused on the 
 
 ---
 
-
----
-
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Udayan-123&show_icons=true&theme=transparent&hide_border=true&title_color=00f2ff&text_color=ffffff&icon_color=ff0055" width="450" />
