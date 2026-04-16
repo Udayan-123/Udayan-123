@@ -29,10 +29,6 @@ I am a Computer Science student from **Assam, India**, currently focused on the 
 
 ---
 
-### 📂 Featured Projects
-
-* **[attribute-face-ddpm](https://github.com/Udayan-123/attribute-face-ddpm)** *A research project focused on attribute-conditioned face synthesis using Diffusion Models.*
-* **PC Performance Optimization** *Researching efficient logic and asset management for Unreal Engine projects.*
 
 ---
 
